@@ -33,10 +33,11 @@
 
 
 ##
-[![Group Chat](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BkdLVSrEZa4EviQ7COGnpT) 
-[![Bot](https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283150418588)
+[![Group Chat](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BiBtvl7i2XE7pFDsKaBcCU) 
+[![Bot](https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283195396498)
 
 
-𐙚𝖼𝗅𝗒𝗇𝗇𝖺-MD | @prd.yiru
+𐙚𝖼𝗅𝗒𝗇𝗇𝖺-MD | @prod.yiru
+
 WhatsApp yiru : 083128817584
 
