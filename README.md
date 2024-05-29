@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://telegra.ph/file/0aa23c7f060e0919e52cf.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/07f4f78907326e4ecbfd4.mp4" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
     </p>
-    <h1 align="center">Vin - MD</h1>
+    <h1 align="center">𐙚𝖼𝗅𝗒𝗇𝗇𝖺own-MD</h1>
 
 ## BACA DULU SEBELUM PAKAI ##
 - Ubah Informasi di Config.js
@@ -37,8 +37,6 @@
 [![Bot](https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283150418588)
 
 
-VnShoop | @callmevinz
-AiBotzzSH | @SanjayaAds
-WhatsApp Alvin : 083150418588
-WhatsApp Jay : 089654057716
+𐙚𝖼𝗅𝗒𝗇𝗇𝖺-MD | @prd.yiru
+WhatsApp yiru : 083128817584
 
