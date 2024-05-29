@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://telegra.ph/file/07f4f78907326e4ecbfd4.mp4" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/40f948fd8a102e8c1721c.mp4" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
     </p>
-    <h1 align="center">𐙚𝖼𝗅𝗒𝗇𝗇𝖺own-MD</h1>
+    <h1 align="center">𐙚𝖼𝗅𝗒𝗇𝗇a-MD</h1>
 
 ## BACA DULU SEBELUM PAKAI ##
 - Ubah Informasi di Config.js
