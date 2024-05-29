@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/40f948fd8a102e8c1721c.mp4" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/72e92c51e3cef6b5e7533.png" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
     </p>
     <h1 align="center">𐙚𝖼𝗅𝗒𝗇𝗇a-MD</h1>
 
