@@ -1,17 +1,17 @@
 <p align="center">
     <img src="https://telegra.ph/file/72e92c51e3cef6b5e7533.png" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
     </p>
-    <h1 align="center">𐙚𝖼𝗅𝗒𝗇𝗇a-MD</h1>
+    <h1 align="center">𐙚𝖼𝗅𝗒𝗇𝗇𝖺-MD ˃ ⤙ ˂</h1>
 
-## BACA DULU SEBELUM PAKAI ##
-- Ubah Informasi di Config.js
-- Support Panel, Termux & replit
-- Pastiakan Kamu Sudah Subrek Chanel Gua
-- Harap Manuruh Credit Jika Ingin Recode Jika Tidak Di Pastikan Tidak Ada Update Lagi Ke Versi Selanjutnya.
+𝖺𝗅𝗈𝗈𝗐𝗐𝗐 𝖻𝖺𝖼𝖺 𝗂𝗇𝗂 𝖽𝗎𝗅𝗎 𝗒𝖺𝖺𝖺
+- 𝖴𝖻𝖺𝗁 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗌𝗂 𝖽𝗂 𝖢𝗈𝗇𝖿𝗂𝗀.𝗃𝗌
+- 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖯𝖺𝗇𝖾𝗅, 𝖳𝖾𝗋𝗆𝗎𝗑 & 𝗋𝖾𝗉𝗅𝗂𝗍
+- 𝖯𝖺𝗌𝗍𝗂𝖺𝗄𝖺𝗇 𝖪𝖺𝗆𝗎 𝖲𝗎𝖽𝖺𝗁 𝖲𝗎𝖻𝗋𝖾𝗄 𝖢𝗁𝖺𝗇𝖾𝗅 𝖦𝗎𝖺
+- 𝖧𝖺𝗋𝖺𝗉 𝖬𝖺𝗇𝗎𝗋𝗎𝗁 𝖢𝗋𝖾𝖽𝗂𝗍 𝖩𝗂𝗄𝖺 𝖨𝗇𝗀𝗂𝗇 𝖱𝖾𝖼𝗈𝖽𝖾 𝖩𝗂𝗄𝖺 𝖳𝗂𝖽𝖺𝗄 𝖣𝗂 𝖯𝖺𝗌𝗍𝗂𝗄𝖺𝗇 𝖳𝗂𝖽𝖺𝗄 𝖠𝖽𝖺 𝖴𝗉𝖽𝖺𝗍𝖾 𝖫𝖺𝗀𝗂 𝖪𝖾 𝖵𝖾𝗋𝗌𝗂 𝖲𝖾𝗅𝖺𝗇𝗃𝗎𝗍𝗇𝗒𝖺.
 
-### Sedikit Tentang Bot
+
+𝗌𝖾𝖽𝗂𝗄𝗂𝗍 𝗂𝗇𝖿𝗈 𝗍𝖾𝗇𝗍𝖺𝗇𝗀 𝖻𝗈𝗍
 - ✔️ | **Simple** 
-- ✔️ | **No Button** 
 - ✔️ | **Multi Device** 
 - ✔️ | **Work All Fitur**
 - ✔️ | **No Apikey**
